@@ -1,0 +1,6 @@
+{
+  "name": "গাড়ির হিসাব",
+  "description": "Car tracking and accounting application with member history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
